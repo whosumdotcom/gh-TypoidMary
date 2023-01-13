@@ -1,0 +1,39 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-13T15:46:29Z",
+  "IdClaims": [
+    {
+      "Claim": "t:embeeshea"
+    },
+    {
+      "Claim": "gh:typoidmary"
+    },
+    {
+      "Claim": "mdon:@mbshea@toad.social"
+    }
+  ],
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "9e4ab5cdf7fc14af7294f02f",
+    "Timestamp": "2023-01-13T15:48:37Z",
+    "Signature": "6f0cd2f3644eb4ecd7533a8f3295b9328936deaaa37d9d43ffebb06b5c0251a9667d6bceb91395bbd01bd7dc0a3ef44296e5654272dc4066b5ccdcf8808b3bef0ded05f75db54dd899c9fa2698eb730b6e81313f29ab60609ad2a770a550bd40fdb431f1a44b1d2afff7ff9a26129ed707722bb75b1cc8189d4b58e507d6e7dc20d86baf26d6d99d9ec90757624bfd232b80c50d0bad2bae9c486c0c2a711b90d4fea6513bb14350c4d9d3d98a505f55d2ff706f5c45c835fdc5fa93993bafbd9370ec0776a14a8983c84a8d2e0903ee100c8e02e2a00a7236c9cca2b1308bf0f7910f68086d16eb496ff489af37973f985d19fe715ae431048b3bd05a2d1361"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "36007e3a896e2f6f693f07785c1dce8e21f09e23e192398a3ecf1d3d712d1003",
+  "ContentToHash": "v1|gh:typoidmary,mdon:@mbshea@toad.social,med:no-account,pat:no-account,post:no-account,ss:no-account,t:embeeshea|2023-01-13T15:46:29Z"
+}
